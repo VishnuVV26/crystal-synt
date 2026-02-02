@@ -4,7 +4,7 @@ import Image from "next/image";
 const FooterContainer = () => {
   return (
     <footer className="relative bg-gradient-to-b from-[#2b2b27] to-[#1f1f1c] text-white">
-      {/* Main Footer */}
+  
       <div className="max-w-7xl mx-auto px-8 py-20 grid grid-cols-1 md:grid-cols-3 gap-16">
         {/* Left Section */}
         <div>
